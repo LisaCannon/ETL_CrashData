@@ -1,0 +1,10 @@
+injury,Injury Severity
+-1,(-1)Blank
+0,(0)No Apparent Injury (O)
+1,(1)Possible Injury (C)
+2,(2)Suspected Minor Injury(B)
+3,(3)Suspected Serious Injury(A)
+4,(4)Fatal Injury (K)
+5,(5)Injured; Severity Unknown
+6,(6)Died Prior To Crash*
+9,(9)Unknown/Not Reported

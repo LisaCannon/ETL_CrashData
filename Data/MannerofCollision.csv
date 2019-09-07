@@ -1,0 +1,13 @@
+manncol,Manner of Collision
+-1,(-1)Blank
+0,(0)Not A Collision With Motor Vehicle In-Transport
+1,(1)Front-to-Rear
+2,(2)Front-to-Front
+6,(6)Angle
+7,(7)Sideswipe - Same Direction
+8,(8)Sideswipe - Opposite Direction
+9,(9)Rear-to-Side
+10,(10)Rear-to-Rear
+11,(11)Other
+98,(98)Not Reported
+99,(99)Unknown

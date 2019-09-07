@@ -1,0 +1,14 @@
+relrdwy,Relation to Trafficway
+-1,(-1)Blank
+1,(1)On Roadway
+2,(2)On Shoulder
+3,(3)On Median
+4,(4)On Roadside
+5,(5)Outside Trafficway
+6,(6)Off Roadway-Location Unknown
+7,(7)In Parking Lane/Zone
+8,(8)Gore
+10,(10)Separator
+11,(11)Continous Left - Turn Lane
+98,(98)Not Reported
+99,(99)Unknown

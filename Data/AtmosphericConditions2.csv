@@ -1,0 +1,16 @@
+atmcond2,Atmospheric Condition (2)
+-1,(-1)Blank
+0,(0)No Additional Atmospheric Conditions
+1,(1)Clear
+2,(2)Rain
+3,(3)Sleet Or Hail
+4,(4)Snow
+5,"(5)Fog, Smog, Smoke"
+6,(6)Severe Crosswinds
+7,"(7)Blowing Sand, Soil, Dirt"
+8,(8)Other
+10,(10)Cloudy
+11,(11)Blowing Snow
+12,(12)Freezing Rain Or Drizzle
+98,(98)Not Reported
+99,(99)Unknown
